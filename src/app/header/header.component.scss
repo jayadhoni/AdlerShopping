@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+}
+.flex-spacer{
+    flex-grow: 1;
+}
+.contactIcon{
+    float:left;
+    margin:10px 10px 0 10px;
+    color: rgb(115,86,51);
+}
+.contactIcon p{
+    line-height: 1;
+    margin-bottom: 0;
+}
